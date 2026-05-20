@@ -1,0 +1,64 @@
+@charset "UTF-8";
+#bgCanvas{
+	background-color: #2E3234 !important;
+}
+
+#footer{
+	color: #fff !important;
+}
+a{
+	color: #fff !important;
+}
+.menu{
+	border-left: 1px solid white !important;
+}
+#bottomSearch{
+	background-color: unset !important;
+    opacity: 1  !important;
+}
+
+#split{
+	color: #fff !important;
+}
+
+.forkit .tag {
+color: #000;
+background: WHITESMOKE;
+}
+
+.result{
+	background: dodgerblue !important
+}
+
+.darkmode-toggle--white {
+	border:none;
+	background: none;
+}
+.fa-file-text-o{
+    color:powderblue !important
+}
+.fa-weixin {
+    color: #FFF;
+}
+.fa-tree {
+    color: #FFF;
+}
+.fa-linux {
+	color:darkgray;
+}
+.fa-windows {
+	color:steelblue !important;
+}
+.bei{
+	filter: invert(1); 
+}
+.forkit .tag {
+	color: #000 !important;
+    background: WHITESMOKE !important;
+}
+.dark {
+	opacity:1;
+}
+.light {
+	opacity:0;
+}
