@@ -1,2 +1,2 @@
 ## adaishoucang
-阿呆收藏：https://hidmould.github.io/adaishoucang/
+阿呆收藏：http://www.885942.xyz
