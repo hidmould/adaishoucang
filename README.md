@@ -1,2 +1,2 @@
 ## adaishoucang
-阿呆收藏：https://www.885942.xyz
+阿呆收藏：https://adaishoucang.885942.xyz
